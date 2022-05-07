@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-sign-up-f2bf6": {
+      "hosting": {
+        "AngularToDo": [
+          "angular-sign-up-f2bf6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-sign-up-f2bf6"
+  }
+}
